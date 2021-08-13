@@ -2,7 +2,7 @@
  * Copyright (c) 2021 Tander, All Rights Reserved.
  */
 
-import java.util.Scanner;
+import java.util.*;
 
 /**
  * Задача
@@ -28,7 +28,7 @@ import java.util.Scanner;
 
 public class ClassIfElse {
 	private static final Scanner scanner = new Scanner(System.in);
-
+ArrayList list;
 	public static void main(String[] args) {
 		int n = scanner.nextInt();
 		scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?"); // пропустть
