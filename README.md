@@ -38,3 +38,6 @@ java           100</p>
 cpp            065</p>
 python         050</p>
 ================================</p>
+ решение по ссылке https://github.com/Krassilnikov-AV/Hackerrank/blob/master/src/main/java/sistemPrintf/Solution.java
+ _ _ _ _ _ _ _ _ _ _ _ 
+ 
