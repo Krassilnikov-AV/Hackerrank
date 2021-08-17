@@ -43,24 +43,20 @@ public class Solution {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		String s1 = null;
-		int x = 0;
+
 		System.out.println("================================");
-		List str = new ArrayList();
-		List num = new ArrayList();
+
+
+
 		for (int i = 0; i < 3; i++) {
-			s1 = sc.next();
-			x = sc.nextInt();
+			String s1 = sc.next();
+			int x = sc.nextInt();
 			//Complete this line
-			str.add(s1);
-			num.add(x);
+
 		}
 		sc.close();
 		System.out.println("================================");
 
-		for (s:str) {
-			s.
-		}
-		System.out.printf("%s   %d \n", s, x);
+		System.out.println();
 	}
 }
