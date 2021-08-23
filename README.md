@@ -9,7 +9,8 @@
 Пример вывода:</p>
 Молодец</p>
 _ _ _ _ _ 
-
+Задачи наввод и вывод в консоль зачений.</p>
+Простейший пример:</p> https://github.com/Krassilnikov-AV/Hackerrank/blob/master/src/main/java/sistemPrintf/Main.java</p>
 Функцию Java System.out.printf можно использовать для печати форматированного вывода.</p>
  Цель этого упражнения - проверить ваше понимание форматирования вывода с помощью printf .</p>
 
