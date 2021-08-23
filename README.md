@@ -42,3 +42,5 @@ python         050</p>
  решение по ссылке https://github.com/Krassilnikov-AV/Hackerrank/blob/master/src/main/java/sistemPrintf/Solution.java
  _ _ _ _ _ _ _ _ _ _ _ 
  
+
+https://github.com/Krassilnikov-AV/Hackerrank/tree/master/src/main/java/staticBlock
