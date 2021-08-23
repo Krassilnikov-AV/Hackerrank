@@ -46,13 +46,10 @@ public class Solution {
 
 		System.out.println("================================");
 
-
-
 		for (int i = 0; i < 3; i++) {
 			String s1 = sc.next();
 			int x = sc.nextInt();
 			//Complete this line
-
 		}
 		sc.close();
 		System.out.println("================================");
