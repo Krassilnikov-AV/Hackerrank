@@ -48,9 +48,9 @@ public class Solution {
 		H = in.nextInt();
 		System.out.print("Введите ширину: ");
 		B = in.nextInt();
-		if (flag = (B <= 100 & B >= 0) && (0<= H & H <= 100)) {
+		if (flag = (B <= 100 & B >= 0) && (0 <= H & H <= 100)) {
 			System.out.println("Площадь прямоугольника: ");
-		} else if (flag = (B >= -100 & B <= 0) && (0<= H & H >= -100)){
+		} else if (flag = (B >= -100 & B <= 0) && (H <= 0 & H >= -100)) {
 			//доработать вывод ошибки
 			System.out.println("java.lang.Exception: ширина и высота должны быть положительными");
 		}
