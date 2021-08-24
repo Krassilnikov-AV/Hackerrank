@@ -36,7 +36,7 @@ import java.util.Scanner;
 2
 Пример вывода 2
 * */
-public class Solution {
+public class Solution extends Exception {
 
 	//	Write your code here
 	static int B, H;
@@ -50,9 +50,9 @@ public class Solution {
 		B = in.nextInt();
 		if (flag = (B <= 100 & B >= 0) && (0 <= H & H <= 100)) {
 			System.out.println("Площадь прямоугольника: ");
-		} else if (flag = (B >= -100 & B <= 0) && (H <= 0 & H >= -100)) {
-			//доработать вывод ошибки
-			System.out.println("java.lang.Exception: ширина и высота должны быть положительными");
+		} else  {
+				flag = (B >= -100 & B <= 0) && (H <= 0 & H >= -100);
+				System.err.println(new Exception("ширина и высота должны быть положительными"));
 		}
 	}
 
