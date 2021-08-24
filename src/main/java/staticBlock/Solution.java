@@ -36,7 +36,7 @@ import java.util.Scanner;
 2
 Пример вывода 2
 * */
-public class Solution extends Exception {
+public class Solution {
 
 	//	Write your code here
 	static int B, H;
